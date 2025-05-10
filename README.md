@@ -31,7 +31,7 @@ constant في ملف
 
 link_api.dart 
 
-وقم بتغيير const String linkserver = "http://عنوان الايبي الخاص بك/first_app_api"; 
+وقم بتغيير const String linkserver = "http://your_ip/first_app_api"; 
 
 
 
