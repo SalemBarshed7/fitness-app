@@ -50,42 +50,49 @@ link_api.dart
 ## الواجهات 
 
 # صفحه تسجيل مستخدم جديد
-## path : lib/app/auth/sign.dart
+
 
 ![واجهة تسجيل](image/step_program/signinpage.jpg)
+## path : lib/app/auth/sign.dart
 
 
 # صفحه تضهر بعد تسجيل مستخدم جديد
-## path : lib/app/auth/Sucss.dart
+
 
 ![واجهة نجاح التسجيل تضهر بعد التسجيل الناجح](image/step_program/Sucss.jpg)
+## path : lib/app/auth/Sucss.dart
 
 
 # صفحه تسجيل الدخول
-## path : lib/app/auth/login.dart
+
 
 ![واجهه تسجيل الدخول بعد التحقق من ان اليوزر تم تسجيله](image/step_program/loginpage.jpg)
+## path : lib/app/auth/login.dart
 
 
 # صفحه الهوم الرئيسيه
-## path : lib/app/home.dart
+
 
 ![الصفحة الرئيسية](image/step_program/home.jpg)
+## path : lib/app/home.dart
 
 
 # صفحه اضافه تمرين جديد او فئه جديده
-## path : lib/app/Catogry/addcatogry.dart
+
 
 ![واجهه اضافه تمرين جديد او Catogry](image/step_program/addcatogry.jpg)
+## path : lib/app/Catogry/addcatogry.dart
 
 
 # صفحه تعديل التمرين او الفئه
-## path : lib/app/Catogry/editcatogry.dart
+
 
 ![واجهه تعديل التمرين او catogry ](image/step_program/editcatogry.jpg)
+## path : lib/app/Catogry/editcatogry.dart
 
 
 # لحذف التمرين
-## path : lib/app/home.dart
+
 
 ![ لحذف تمرين او كاتوقري ](image/step_program/del.jpg)
+## path : lib/app/home.dart
