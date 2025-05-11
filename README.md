@@ -1,16 +1,45 @@
-# flutter_application_1
+# 📱 تطبيق Fitness 
+- Front-end
 
-A new Flutter project.
+هذا المستودع يحتوي على الواجهة الأمامية لتطبيق اللياقة البدنية، تم تطويره باستخدام إطار **Flutter**.  
+يرتبط هذا التطبيق بواجهة خلفية (Back-End) تم تطويرها باستخدام PHP وMySQL.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 تشغيل التطبيق
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ المتطلبات الأساسية:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK مثبت على جهازك  
+- Android Studio أو VS Code (مع إضافات Flutter وDart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ خطوات التشغيل
+
+
+لتشغيل التطبيق اولا عليك بتنزل الباك اند الخاص بالتطبيق وتشغيله واتبع التعليمات لتشغيل السيرفر دون مشاكل https://github.com/SalemBarshed7/Backend-for-Fitness-app
+
+
+ثانيا قبل بدء تشغيل التطبيق قم بمسح الذاكره الموقته للتطبيق عن طريق امر flutter clean وبعدها قم بتنزيل البكجات مجددا لتجنب التعارض عبر امر flutter pub get  
+
+
+في الاخير قبل بدء تشغيل التطبيق قم بالدخول لملف المشروع ادخل للمجلد 
+
+
+constant في ملف
+
+link_api.dart 
+
+وقم بتغيير const String linkserver = "http://your_ip/first_app_api"; 
+
+
+
+الى الايبي الخاص بالباك اند اللذي قمنا بشرح طريقته في هاذا الرابط https://github.com/SalemBarshed7/Backend-for-Fitness-app 
+
+
+ختاما قم بجعل linkserver مشابهه للايبي الخاص بجهازك لمعرفه ماهو ايبي جهازك قم بالدخول cmd وقم بعمل الامر ipconfig سيضهر معاك الايبي الخاص بك 
+
+
+
+اما اذا كنت ستعمل عن طريق Eimulator قم بجعل linkserver بالايبي هاذا 10.0.2.2
