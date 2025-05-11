@@ -43,3 +43,35 @@ link_api.dart
 
 
 اما اذا كنت ستعمل عن طريق Eimulator قم بجعل linkserver بالايبي هاذا 10.0.2.2
+
+
+
+
+الواجهات
+
+
+![واجهة تسجيل](image/step_program/signinpage.jpg)
+
+
+
+![واجهة نجاح التسجيل تضهر بعد التسجيل الناجح](image/step_program/Sucss.jpg)
+
+
+
+![واجهه تسجيل الدخول بعد التحقق من ان اليوزر تم تسجيله](image/step_program/loginpage.jpg)
+
+
+
+![الصفحة الرئيسية](image/step_program/home.jpg)
+
+
+
+![واجهه اضافه تمرين جديد او Catogry](image/step_program/addcatogry.jpg)
+
+
+
+![واجهه تعديل التمرين او catogry ](image/step_program/home.jpg)
+
+
+
+![ لحذف تمرين او كاتوقري ](image/step_program/del.jpg)
