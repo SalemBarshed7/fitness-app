@@ -1,5 +1,5 @@
 // const String linkserver = "http://10.0.2.2/first_app_api";
-const String linkserver = "http://192.168.0.7/first_app_api";
+const String linkserver = "http://192.168.1.4/first_app_api";
 
 
 const String linksimage = "$linkserver/upload";

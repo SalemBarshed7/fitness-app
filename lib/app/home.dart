@@ -160,7 +160,7 @@ catogry_provide _provide_cat = catogry_provide();
                               });
                             },
                             
-                            // images: "images",
+                            
                             ontaping: () async{
                                _update();
                                print("===========================================================${snapshot.data[index]["id"]}");

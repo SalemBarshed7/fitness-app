@@ -49,29 +49,36 @@ link_api.dart
 
 الواجهات
 
+# صفحه تسجيل مستخدم جديد
 
 ![واجهة تسجيل](image/step_program/signinpage.jpg)
 
 
+# صفحه تضهر بعد تسجيل مستخدم جديد
 
 ![واجهة نجاح التسجيل تضهر بعد التسجيل الناجح](image/step_program/Sucss.jpg)
 
 
+# صفحه تسجيل الدخول
 
 ![واجهه تسجيل الدخول بعد التحقق من ان اليوزر تم تسجيله](image/step_program/loginpage.jpg)
 
 
+# صفحه الهوم الرئيسيه
 
 ![الصفحة الرئيسية](image/step_program/home.jpg)
 
 
+# صفحه اضافه تمرين جديد او فئه جديده
 
 ![واجهه اضافه تمرين جديد او Catogry](image/step_program/addcatogry.jpg)
 
 
+# صفحه تعديل التمرين او الفئه
 
-![واجهه تعديل التمرين او catogry ](image/step_program/home.jpg)
+![واجهه تعديل التمرين او catogry ](image/step_program/editcatogry)
 
 
+# لحذف التمرين
 
 ![ لحذف تمرين او كاتوقري ](image/step_program/del.jpg)
