@@ -76,7 +76,7 @@ link_api.dart
 
 # صفحه تعديل التمرين او الفئه
 
-![واجهه تعديل التمرين او catogry ](image/step_program/home.jpg)
+![واجهه تعديل التمرين او catogry ](image/step_program/editcatogry)
 
 
 # لحذف التمرين
